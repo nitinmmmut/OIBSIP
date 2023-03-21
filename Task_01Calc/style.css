@@ -1,0 +1,45 @@
+/* Your CSS Code here. */
+
+body{
+    background-color: rgb(169, 192, 212);
+
+}
+
+.container{
+    text-align: center;
+    margin-top: 23px;
+    background-color:  #2b5d9b;
+    height: auto;
+}
+
+table{
+    margin: auto;
+}
+
+button{
+    border-radius: 5px;
+    font-size: 35px;
+    background: #adbccc;
+    width: 90px;
+    height: 90px;
+    margin: 6px;
+}
+input{
+    height: 100px;
+    width: 500px;
+    border: 5px solid black;
+    font-size: 35px;
+    background-color: #f6f7f8;
+}
+
+#enter{
+    width: 190px;
+    background-color: #3172c2;
+    color: #eef4fa;
+    border: solid black;
+    border-radius: 10px;
+}
+
+#Mbtn{
+    background-color: #eef4fa;
+}
